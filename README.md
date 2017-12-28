@@ -2,7 +2,7 @@
 First compile it:
 
 ```bash
-g++ work-optimized.cpp -o prime_numbers
+g++ Prime_Numbers.cpp -o prime_numbers
 ```
 
 Then run:
